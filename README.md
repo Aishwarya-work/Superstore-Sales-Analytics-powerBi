@@ -24,6 +24,33 @@ Star Schema Architecture:
 - Dim_Region
 - Dim_Date
 
+## Data Preprocessing Steps
+### 1. Data Loading
+
+Imported CSV dataset into Power BI
+
+### 2. Data Cleaning
+
+Removed duplicates
+
+Handled null values
+
+Standardized text columns
+
+Corrected data types
+
+### 3. Transformation
+
+Created calculated columns
+
+Split and renamed columns
+
+Built dimension tables
+
+### 4. Date Table Creation
+
+A custom date table was created to enable time intelligence analysis.
+
 ## Dashboard Features
 - KPI Cards
 - YoY Growth Analysis
